@@ -1,4 +1,2 @@
-Article.create({title: '新しい記事', content: '良い記事です'})
-Article.create({title: '新しい記事', content: 'good'})
-
-
+Article.create({title: 'new記事', content: 'good'})
+Article.create({title: 'new記事', content: 'great'})
